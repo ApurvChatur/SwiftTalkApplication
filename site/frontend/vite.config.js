@@ -12,16 +12,16 @@ export default defineConfig({
         "name":"Swift Talk",
         "short_name":"Swift Talk",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#EE4E34",
+        "theme_color": "#EE4E34",
         "icons":[
           {
-            src: "Business/Abol/favicon_io/android-chrome-512x512.png",
+            src: "Business/SwiftTalk/favicon_io/android-chrome-512x512.png",
             sizes: "512x512",
             type: "image/png",
           },
           {
-            src: "Business/Abol/favicon_io/android-chrome-192x192.png",
+            src: "Business/SwiftTalk/favicon_io/android-chrome-192x192.png",
             sizes: "192x192",
             type: "image/png",
           },
